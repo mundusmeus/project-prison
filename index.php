@@ -5,13 +5,14 @@
 <section class="index-intro">
     <?php
         if (isset($_SESSION["useremail"])){
-            echo "<p>Üdvözöljük " . $_SESSION["username"] . "!</p>";
+            echo "<p>Bejelenzketve: " . $_SESSION["username"] . "</p>";
         }
     ?>
-    <h1>This is an introduction</h1>
-    <p>Here is an important paragraph that explains the purpose of the website</p>
+    <h2>Üdvözöljük a Székesfehérvári Fogház és Korrekciós Központ weboldalán!</h2>
+    <p>A szabályszegők büntetésének és rehabilitációjának radikálisan új megközelítésével esélyt teremtünk a fogvatartottak és a társadalom együttműködésére
+        és a közös alapokon nyúgvó fejlődésre mind materiális, mind szellemi értelemben.</p>
 </section>
-
+<p>Ismerje meg intézményünk működését,</p>
 <?php
     include_once 'footer.php';
 ?>

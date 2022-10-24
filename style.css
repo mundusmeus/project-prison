@@ -1,0 +1,42 @@
+body {
+    background-color: #eee;
+}
+
+img {
+    size: 50%;
+}
+
+nav {
+
+}
+.menu {
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.menu li {
+    list-style: none;
+    display: inline-block;
+    float: none;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 0 20px;
+    display: block;
+}
+
+.index-intro {
+    background-color: #eee;
+}
+.wrapper {
+    background-color: #eee;
+}
+.index-intro {
+    background-color: #eee;
+}

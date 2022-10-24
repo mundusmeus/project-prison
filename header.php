@@ -6,15 +6,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
     <script src="js/script.js"></script>
-    <title>Székesfehérvári Fegyház és Korrekciós Központ</title>
+    <title>Székesfehérvári Fogház és Korrekciós Központ</title>
 </head>
 <body>
-    <nav>
+    <nav class="navbar navbar-dark bg-dark">
         <div class="wrapper">
-            <a href="index.php"><img src="img/logo.png" alt="SzFKK"></a>
-            <ul>
+            <a href="index.php"><img src="images/bvlogo.png" alt="SzFKK"></a>
+            <ul class="menu">
                 <li><a href="index.php">Főoldal</a></li>
                 <li><a href="inmates.php">Fogvatartottak</a></li>
                 <li><a href="contact.php">Kapcsolat</a></li>
