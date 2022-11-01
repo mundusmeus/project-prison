@@ -14,7 +14,7 @@
 <body>
     <nav class="navbar navbar-dark bg-dark">
         <div class="wrapper">
-            <a href="index.php"><img src="images/bvlogo.png" alt="SzFKK"></a>
+            <a href="index.php"><img src="images/bvlogo2.png" alt="SzFKK"></a>
             <ul class="menu">
                 <li><a href="index.php">Főoldal</a></li>
                 <li><a href="inmates.php">Fogvatartottak</a></li>
